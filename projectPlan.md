@@ -85,3 +85,6 @@ created_at: timestamp
 4. Menu Display:
  - Menu items fetched from Supabase on component mount
  - Displayed in Menu component
+
+
+ 
